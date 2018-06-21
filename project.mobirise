@@ -2118,7 +2118,7 @@
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/comments-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
             "overlayOpacity": "0.1"
